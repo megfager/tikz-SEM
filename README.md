@@ -1,7 +1,7 @@
 # tikz-SEM
-## This repository includes tikz code to create path diagrams of structural equation models
+## This repository includes tikz code to create path diagrams of bifactor models and related structural equation models.
 
-Meghan Fager, Ph.D., National University
+Meghan Fager
 Updated: 2019-10-01
 
 
